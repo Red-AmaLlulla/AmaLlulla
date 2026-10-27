@@ -1,0 +1,987 @@
+{
+ "proto": "PROTOTIPO · borrador para revisión interna",
+ "hero": {
+  "eyebrow": "Perú · desde enero de 2021",
+  "t1": "Ama Llulla",
+  "t2": "No mentirás",
+  "tr": "/ama ʎuʎa/ · quechua",
+  "lead": "Somos una red de medios de comunicación de distintas regiones del Perú que verifica el discurso público y la desinformación en redes sociales, y lleva información confiable en castellano, aimara, quechua y awajún a quienes más la necesitan.",
+  "q": "«Ama sua, ama llulla, ama quella»",
+  "qt": "<span style=\"color:rgb(255, 255, 255)\">No robes, no mientas, no seas ocioso. La red adoptó como nombre el segundo mandato de este antiguo código ético andino.</span>",
+  "stats": [
+   {
+    "v": "29",
+    "l": "aliados en la red"
+   },
+   {
+    "v": "14",
+    "l": "regiones con medios aliados"
+   },
+   {
+    "v": "4",
+    "l": "idiomas de difusión"
+   }
+  ]
+ },
+ "about": {
+  "title": "Una red colaborativa de medios para contrarrestar la desinformación en Perú",
+  "origen": [
+   "<b>AmaLlulla</b> nació el 17 de enero de 2021 como la primera iniciativa periodística de verificación colaborativa de la campaña electoral peruana de ese año, en la que se elegían la presidencia y el Congreso.",
+   "Su objetivo es contrarrestar la desinformación y la «infodemia», es decir, la circulación masiva de versiones engañosas o falsas, y garantizar el acceso a información confiable para poblaciones vulnerables: pueblos indígenas, mujeres y votantes jóvenes.",
+   "Todos los medios de la red siguen un código de principios éticos común: imparcialidad en la selección de contenidos, transparencia de fuentes, una metodología estándar y una política de correcciones."
+  ],
+  "miembrosIntro": "La red reúne a 29 aliados de distintas regiones del Perú: 15 radios, 11 medios digitales, un canal digital, un programa radial y una organización indígena. <b>OjoPúblico</b> coordina la red.",
+  "miembros": [
+   {
+    "n": "OjoPúblico",
+    "d": "Medio digital · Coordina la red"
+   },
+   {
+    "n": "Radio La Voz de la Selva",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio Villa Hermosa Azángaro",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio La Decana",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio Ayaviri",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio Cutivalú",
+    "d": "Radio"
+   },
+   {
+    "n": "Millenium RadioTv",
+    "d": "Radio"
+   },
+   {
+    "n": "Estación Wari",
+    "d": "Radio"
+   },
+   {
+    "n": "Pachamama Radio",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio Uno",
+    "d": "Radio"
+   },
+   {
+    "n": "Radio Vilcanota",
+    "d": "Radio"
+   },
+   {
+    "n": "Rimayninchis",
+    "d": "Programa radial"
+   },
+   {
+    "n": "Radio Tuntui Wampís",
+    "d": "Radio"
+   },
+   {
+    "n": "Evidencia.pe",
+    "d": "Medio digital, portal web y diario"
+   },
+   {
+    "n": "Pancarta.pe",
+    "d": "Medio digital"
+   },
+   {
+    "n": "El Búho",
+    "d": "Medio digital"
+   },
+   {
+    "n": "Ideeleradio",
+    "d": "Medio digital"
+   },
+   {
+    "n": "Inforegión",
+    "d": "Medio digital"
+   },
+   {
+    "n": "El Objetivo",
+    "d": "Medio digital"
+   },
+   {
+    "n": "Página 17",
+    "d": "Medio digital, radio y TV"
+   },
+   {
+    "n": "FECONAU",
+    "d": "Organización indígena · Federación de Comunidades Nativas de Ucayali y Afluentes"
+   },
+   {
+    "n": "Radio Huánuco",
+    "d": "Radio"
+   },
+   {
+    "n": "Ozono TV Trujillo",
+    "d": "Medio digital y TV"
+   },
+   {
+    "n": "Másdata Amazonía",
+    "d": "Medio digital"
+   },
+   {
+    "n": "Radio Tropicana",
+    "d": "Radio"
+   },
+   {
+    "n": "IDL Reporteros",
+    "d": "Medio digital"
+   },
+   {
+    "n": "ANP Radio",
+    "d": "Radio · Asociación Nacional de Periodistas del Perú"
+   },
+   {
+    "n": "Lagunas Play",
+    "d": "Canal digital"
+   },
+   {
+    "n": "Radio Kampagkis",
+    "d": "Radio"
+   }
+  ],
+  "aliados": [
+   "La red se creó con el impulso del Programa de las Naciones Unidas para el Desarrollo (PNUD), que también la financia en parte. La Agencia Española de Cooperación Internacional para el Desarrollo (AECID) también contribuye a su financiamiento.",
+   "<b>AmaLlulla</b> se inspiró en otras alianzas de verificación electoral: Verificado (México), Reverso (Argentina) y Comprobado (España)."
+  ],
+  "historia": [
+   {
+    "f": "8 ene 2021",
+    "t": "El PNUD anuncia la alianza de medios independientes para verificar la campaña electoral."
+   },
+   {
+    "f": "17 ene 2021",
+    "t": "Se lanza oficialmente la red <b>AmaLlulla</b>."
+   },
+   {
+    "f": "27 ene 2021",
+    "t": "Un grupo extremista hackea las redes de <b>AmaLlulla</b> y difunde mensajes de odio contra candidatos. Antes, otro grupo había creado una página falsa en Facebook para suplantar a la red."
+   },
+   {
+    "f": "11 abr 2021",
+    "t": "Elecciones generales. La red verifica la campaña hasta la jornada electoral."
+   },
+   {
+    "f": "2026",
+    "t": "Los chequeos de la red se siguen publicando en OjoBiónico, la sección de verificación de <b>OjoPúblico</b>, durante las elecciones generales de 2026."
+   }
+  ]
+ },
+ "checks": {
+  "lead": "Filtra por calificación o busca por tema. Toca una tarjeta para ver el resumen.",
+  "items": [
+   {
+    "t": "Es falso que el ministro de Salud eliminó el teletrabajo en el Minsa",
+    "r": "Falso",
+    "d": "2026-08-27",
+    "s": "No hay una disposición o normativa oficial que ratifique de que se prescindió del teletrabajo en el sector salud. Por el contrario, esta modalidad laboral está regulada por la Ley N 31572, Ley del Teletrabajo, publicada en el Diario Oficial El Peruano el 11 de setiembre de 2022.",
+    "img": "img/804583a00509d3b82bc5.jpg",
+    "id": "es-falso-que-el-ministro-de-salud-elimino-el-teletrabajo-en-el-minsa",
+    "fu": [],
+    "body": "<p><b></b></p><p>En el contexto de las visitas del ministro de Salud, Luis Dyer, a distintos centros de salud, circulan publicaciones en las que se asegura que el ministro de Salud, Luis Dyer, dispuso eliminar el teletrabajo en el Ministerio de Salud (Minsa). Estas publicaciones van acompañadas de mensajes como: “Minsa pone fin al teletrabajo” y “el ministro de Salud dispuso poner fin al teletrabajo en el Minsa”. Sin embargo, tras revisar las normativas recientes, la red <b>AmaLlulla</b> concluye que esta versión es falsa.</p><p>La versión desinformante circula en X (<a href=\"http://archive.today/VjkV6\" target=\"_blank\" rel=\"noopener\">1</a>), Facebook, TikTok (<a href=\"https://archive.is/7qFsm\" target=\"_blank\" rel=\"noopener\">1</a>) y YouTube (<a href=\"https://archive.is/VmhJS\" target=\"_blank\" rel=\"noopener\">1</a>). Entre las publicaciones se incluye la inspección del último 4 de agosto del ministro Dyer en la sede de la Dirección General de Medicamentos. En el video se observa a Dyer cuestionar la ausencia de un trabajador y dijo: “Ojo, el teletrabajo lo estoy cortando. Entiendo que hay enfermedades, pero lo estoy cortando. Acá presencial es la única forma de sacar esto adelante”.</p><p>Estas publicaciones circulan con textos y descripciones acerca de que el Minsa dispuso la eliminación del teletrabajo, como si fuese un hecho.</p><p>Sin embargo, pese a que esto fue señalado por Dyer, no hay una disposición o normativa oficial que ratifique que se ha prescindido del teletrabajo en el sector salud. Por el contrario, esta modalidad laboral está regulada por la <a href=\"https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/3460247-31572\" target=\"_blank\" rel=\"noopener\">Ley N 31572</a>, Ley del Teletrabajo, publicada en el Diario Oficial El Peruano el 11 de setiembre de 2022.</p><p>La norma establece que es una modalidad especial de prestación de labores que se caracteriza por realizarse sin presencia física del trabajador o servidor civil en el centro de trabajo y mediante el uso de plataformas y tecnologías digitales. Además, señala que puede ser total o parcial, temporal o permanente.</p><p>La ley indica que estas disposiciones aplican “a todos los servidores civiles de las entidades de la administración pública y trabajadores de las instituciones y empresas privadas, sujetos a cualquier tipo de régimen laboral”, según el artículo 2.</p><p>Para que una ley pierda su vigencia, debe derogarse a través del Congreso de la República. En ese sentido, no existe evidencia de alguna norma ni proyecto de ley vigente que elimine o ponga fin al teletrabajo en el Minsa u otra entidad pública, tras una búsqueda en el <a href=\"https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/consulta\" target=\"_blank\" rel=\"noopener\">portal del Congreso</a>.</p><p>Al contrario, la <a href=\"https://lpderecho.pe/ley-32102-prohiben-teletrabajadores-actividades-extralaborales-jornada-laboral/\" target=\"_blank\" rel=\"noopener\">ley</a> y su <a href=\"https://www.gob.pe/institucion/mtpe/normas-legales/8412124-009-2026-tr\" target=\"_blank\" rel=\"noopener\">reglamento</a> se mantienen vigentes y las modificaciones no incluyen la eliminación del teletrabajo.</p><p>Ahora bien, la propia Ley del Teletrabajo establece reglas específicas para la administración pública. El artículo 18 señala que el titular de cada entidad es responsable de promover, dirigir y evaluar el despliegue del teletrabajo dentro de su ámbito institucional.</p><p>Además, corresponde a las oficinas de recursos humanos, en coordinación con los responsables de los órganos y unidades orgánicas, identificar los puestos, actividades y funciones que pueden desarrollarse mediante teletrabajo, siempre que ello no afecte la prestación de los servicios públicos y permita una adecuada supervisión de las labores.</p><p>Por ello, una entidad pública sí puede revisar qué puestos son teletrabajables y determinar que determinados puestos requieran presencialidad. Eso no equivale a eliminar el teletrabajo como modalidad laboral.</p><p>La ley y su reglamento contemplan, además, que la modalidad de prestación pueda variar de presencial a teletrabajo o viceversa bajo determinadas condiciones (enfermedad, condición vulnerable, viaje por estudios, entre otros).</p><p>Asimismo, en el caso del Ministerio de Salud, existe una normativa institucional específica. El 12 de marzo de 2024, el Minsa aprobó el <a href=\"https://www.gob.pe/institucion/minsa/normas-legales/5340090-054-2024-minsa\" target=\"_blank\" rel=\"noopener\">documento técnico</a> denominado “Lineamientos para la Implementación del Teletrabajo en la Unidad Ejecutora 001-Administración Central del Ministerio de Salud”, el cual contempla aspectos como los criterios para identificar los puestos teletrabajables, los procedimientos para evaluar las solicitudes para el cambio de modalidad del teletrabajo, los mecanismos de control y seguimiento de actividades, los criterios de reversibilidad temporal o permanente de los puestos teletrabajables a la modalidad presencial, entre otros.</p><p>Consultada para esta verificación, la Dirección Ejecutiva de la Oficina de Información Pública del Minsa, a cargo de Giovana Arrunátegui Burgos, ratificó que hasta la fecha “no se ha emitido desde el Ministerio de Salud una disposición normativa de carácter general que disponga la eliminación o suspensión del régimen de teletrabajo”, según respondió a través de la red de mensajería de WhatsApp.</p><p>En función de lo expuesto, es falsa la versión acerca de que el ministro de Salud, Luis Dyer, puso fin al teletrabajo. La ley que regula el teletrabajo continúa vigente y sigue siendo una modalidad laboral válida en el Minsa.</p><p></p>",
+    "feat": true
+   },
+   {
+    "t": "Es falso que el JNE ratificó que los trenes fueron donados a la MML",
+    "r": "Falso",
+    "d": "2026-08-19",
+    "s": "En su decisión, el Pleno del JNE se pronuncia sobre la naturaleza y contenido del acuerdo de concejo de la MML, pero en ninguna parte establece que la entrega de los trenes en mención fue una donación por parte de Caltrain.",
+    "img": "img/fdcc902b5aef883ceca6.jpg",
+    "id": "es-falso-que-el-jne-ratifico-que-los-trenes-fueron-donados-a-la-mml"
+   },
+   {
+    "t": "Imagen de supuesto estado del bypass Las Torres fue alterada con IA",
+    "r": "Engañoso",
+    "d": "2026-08-17",
+    "s": "Circula en redes sociales una imagen comparativa del tipo ‘antes y después’ sobre el estado del bypass Las Torres, en el distrito de Lurigancho-Chosica, que muestra amplias áreas verdes y el aspecto de una obra terminada. Sin embargo, tras analizar el archivo en cuestión y revisar tomas actuales del lugar, la red AmaLlulla concluye que esta imagen fue adulterada con IA.",
+    "img": "img/237bd7d7bb59bde1f20a.jpg",
+    "id": "imagen-de-supuesto-estado-del-bypass-las-torres-fue-alterada-con-ia"
+   },
+   {
+    "t": "Es engañoso que reglamento del Congreso establece trabajo presencial",
+    "r": "Engañoso",
+    "d": "2026-08-13",
+    "s": "AmaLlulla revisó los reglamentos del Parlamento, de la Cámara de Diputados y del Senado ―oficializados en noviembre de 2025, como parte de la implementación del sistema bicameral a partir de julio de este año―, y en ningún capítulo, artículo o inciso se señala que la presencialidad sea parte del trabajo parlamentario.",
+    "img": "img/9ed9df583cbaedc8a4db.jpg",
+    "id": "es-enganoso-que-reglamento-del-congreso-establece-trabajo-presencial"
+   },
+   {
+    "t": "Es falsa la versión que circula en redes sociales acerca de que la Marina de Guerra alertó que ocurrirá un terremoto de magnitud 8.8 en el país",
+    "r": "Falso",
+    "d": "2026-08-13",
+    "s": "Este último 12 de agosto, a través de sus redes sociales oficiales, la Marina de Guerra aclaró que “no ha emitido dicha información” puesto que “los sismos son fenómenos naturales que no pueden predecirse”.",
+    "img": "img/b24259c35576ca68861d.jpg",
+    "id": "es-falsa-la-version-que-circula-en-redes-sociales-acerca-de-que-la-mar"
+   },
+   {
+    "t": "Es falsa la portada de un diario que da ventaja a López Aliaga en la campaña por la alcaldía de Lima: fue creada con IA",
+    "r": "Falso",
+    "d": "2026-08-11",
+    "s": "AmaLlulla detectó que, a partir de la portada real de Perú 21 del último 9 de agosto, se alteraron varios contenidos con IA. En la primera plana falsa se añadió el titular “La mejor y única opción”, acompañado de una foto de López Aliaga, y una gráfica de la última encuesta de Perú 21. Dichos elementos no figuran en la portada original del diario que, en realidad, tituló: “Se mueven las preferencias”.",
+    "img": "img/f079229cf7d414100737.jpg",
+    "id": "es-falsa-la-portada-de-un-diario-que-da-ventaja-a-lopez-aliaga-en-la-c"
+   },
+   {
+    "t": "Es falsa la imagen difundida por Karla Schaefer sobre un supuesto cheque a favor de Indira Huilca: fue creada con IA",
+    "r": "Falso",
+    "d": "2026-08-08",
+    "s": "La red AmaLlulla sometió esta imagen a herramientas de detección de IA, como SynthID, la cual permite identificar contenido generado con Google IA. El análisis determinó que “se ha detectado SynthID en la totalidad o en parte del contenido cargado”, con un nivel de confianza muy alto.",
+    "img": "img/4383e3b661511fd0da0c.jpg",
+    "id": "es-falsa-la-imagen-difundida-por-karla-schaefer-sobre-un-supuesto-cheq"
+   },
+   {
+    "t": "Es falso que no hubo un conflicto armado interno durante el periodo de violencia en Perú",
+    "r": "Falso",
+    "d": "2026-08-05",
+    "s": "Basada en los Convenios de Ginebra, un instrumento del derecho internacional humanitario (DIH) que limita los perjuicios causados por los conflictos armados internos, la Comisión de la Verdad y Reconciliación (CVR) fundamentó y determinó que sí hubo un conflicto armado interno en el país por las “decenas de miles de personas muertas en un contexto de violencia armada y varios otros miles de mutilados” y heridos durante el periodo de violencia que va de 1980 al 2000, según su informe final. La Comisión también explica que las normas que rigen los conflictos armados internos prohíben cualquier acto de terrorismo contra ciudadanos que no participen activamente del conflicto. Los delitos cometidos en ese contexto pueden ser perpetrados por un agente estatal o un grupo terrorista.",
+    "img": "img/b788000268bc51cb93d2.jpg",
+    "id": "es-falso-que-no-hubo-un-conflicto-armado-interno-durante-el-periodo-de"
+   },
+   {
+    "t": "Video de supuestos huaicos en zonas urbanas de Perú no es actual: ocurrió en Nasca hace más de un año",
+    "r": "Falso",
+    "d": "2026-08-04",
+    "s": "En redes sociales circula un video con varias imágenes de una supuesta inundación que ingresa violentamente al cauce de un río en una zona urbana del Perú, mientras varios transeúntes graban la escena y huyen raudamente del lugar. El registro se presenta como si fuera un deslizamiento actual. Sin embargo, al rastrear la grabación original, la red AmaLlulla concluye que no es actual, sino que ocurrió en la provincia de Nasca en el 2025.",
+    "img": "img/e16088715436219bff23.jpg",
+    "id": "video-de-supuestos-huaicos-en-zonas-urbanas-de-peru-no-es-actual-ocurr"
+   },
+   {
+    "t": "Es falso que el Vaticano anunció el cambio del arzobispo de Lima",
+    "r": "Falso",
+    "d": "2026-07-31",
+    "s": "En realidad, no existe pronunciamiento alguno del Vaticano al respecto en sus canales de comunicación oficiales. El propio cardenal Castillo y el Arzobispado de Lima también lo desmintieron, tras ser consultados por la red AmaLlulla.",
+    "img": "img/c40f44c15ea2083e826b.jpg",
+    "id": "es-falso-que-el-vaticano-anuncio-el-cambio-del-arzobispo-de-lima"
+   },
+   {
+    "t": "Es falso que las víctimas de los casos Barrios Altos y La Cantuta formaran parte del grupo terrorista Sendero Luminoso",
+    "r": "Falso",
+    "d": "2026-07-30",
+    "s": "Circulan en redes sociales versiones falsas que señalan como terroristas a las 25 víctimas de la Universidad Nacional Enrique Guzmán y Valle —conocida como La Cantuta— y Barrios Altos; las cuales, fueron asesinadas por el escuadrón de la muerte “Grupo Colina”. Sin embargo, las sentencias judiciales emitidas por la Corte Suprema demuestran que las víctimas no estaban vinculadas con Sendero Luminoso o algún grupo terrorista.",
+    "img": "img/1c1b00cdeda7d5103adf.jpg",
+    "id": "es-falso-que-las-victimas-de-los-casos-barrios-altos-y-la-cantuta-form"
+   },
+   {
+    "t": "Es falso que la CVR no escuchó a las víctimas de pueblos originarios",
+    "r": "Falso",
+    "d": "2026-07-24",
+    "s": "AmaLlulla revisó el informe final de la Comisión de la Verdad y la Reconciliación (CVR) e identificó que sí recogió los testimonios de víctimas de las comunidades asháninka y shipibo-konibo durante el conflicto armado interno (1980-2000). Incluso, existen fotografías de las visitas del equipo de investigaciones de la CVR en comunidades asháninka para recopilar información testimonial en el 2002.",
+    "img": "img/e7cec13e5927a95f31e6.jpg",
+    "id": "es-falso-que-la-cvr-no-escucho-a-las-victimas-de-pueblos-originarios"
+   },
+   {
+    "t": "Es falso dato de Zunini sobre intento de golpe de Estado de Castillo",
+    "r": "Falso",
+    "d": "2026-07-22",
+    "s": "Contra lo afirmado por Zunini, el informe del Grupo de Trabajo de la Organización de las Naciones Unidas (ONU) no señala en ningún apartado que el expresidente Pedro Castillo no puede ser acusado de dar un golpe de Estado por tener prerrogativas ―propias de su cargo― para dar medidas excepcionales.",
+    "img": "img/31d54ad2af0694e8e63a.jpg",
+    "id": "es-falso-dato-de-zunini-sobre-intento-de-golpe-de-estado-de-castillo"
+   },
+   {
+    "t": "Versión en video de supuesta excarcelación de Pedro Castillo es falsa: corresponde a los comicios municipales y regionales del 2022",
+    "r": "Falso",
+    "d": "2026-07-17",
+    "s": "La red AmaLlulla realizó una búsqueda inversa de imágenes con la herramienta Google Lens e identificó que, en realidad, el video original fue transmitido el 2 de octubre de 2022 por TVPerú Noticias, y muestra al entonces presidente Pedro Castillo en un recorrido por calles de Cajamarca, acompañado por personal de seguridad presidencial después de emitir su voto durante las elecciones municipales y regionales de ese año.",
+    "img": "img/06c1264b33b1c4501a58.jpg",
+    "id": "version-en-video-de-supuesta-excarcelacion-de-pedro-castillo-es-falsa"
+   },
+   {
+    "t": "Es falsa la versión de Martha Chávez acerca de que Alberto Fujimori nunca fue involucrado en actos de corrupción",
+    "r": "Falso",
+    "d": "2026-07-15",
+    "s": "En realidad, el exmandatario Alberto Fujimori sí estuvo involucrado en actos de corrupción. De hecho, fue sentenciado dos veces por delitos contra la administración pública en casos como la compra de líneas editoriales en medios de comunicación, las interceptaciones telefónicas, el pago ilícito a congresistas tránsfugas y el pago ilícito de un monto por CTS en beneficio de Vladimiro Montesinos, exasesor presidencial. Las sentencias judiciales de estos casos demuestran que Fujimori aceptó las imputaciones por corrupción en su contra.",
+    "img": "img/fc2124396b53c38b72d6.jpg",
+    "id": "es-falsa-la-version-de-martha-chavez-acerca-de-que-alberto-fujimori-nu"
+   },
+   {
+    "t": "Es engañosa la versión de Rospigliosi sobre delitos de lesa humanidad",
+    "r": "Engañoso",
+    "d": "2026-07-10",
+    "s": "En realidad, un asesinato individual sí puede configurar un delito de lesa humanidad cuando se comete en el marco de un ataque generalizado o sistemático contra la población civil y quien lo perpetra conoce ese contexto.",
+    "img": "img/c92b62220e5a0d0975e4.jpg",
+    "id": "es-enganosa-la-version-de-rospigliosi-sobre-delitos-de-lesa-humanidad"
+   },
+   {
+    "t": "Es falso el supuesto comunicado en el que JP felicita a Keiko Fujimori",
+    "r": "Falso",
+    "d": "2026-07-01",
+    "s": "El mismo 30 de junio, a través de su cuenta oficial de Facebook, Juntos por el Perú señaló que el supuesto comunicado —que reconoce los resultados de la votación a favor de Keiko Fujimori— es apócrifo.",
+    "img": "img/d4c90de122e4bd98a921.jpg",
+    "id": "es-falso-el-supuesto-comunicado-en-el-que-jp-felicita-a-keiko-fujimori"
+   },
+   {
+    "t": "Es falso que la autoridad del centro poblado crea el padrón electoral",
+    "r": "Falso",
+    "d": "2026-06-19",
+    "s": "Contra lo afirmado por el excandidato López Aliaga, en ninguna parte de estos lineamientos se señala que la autoridad local posea la facultad de crear el padrón electoral para las elecciones generales.",
+    "img": "img/f2640ab614eb7a8a95a1.jpg",
+    "id": "es-falso-que-la-autoridad-del-centro-poblado-crea-el-padron-electoral"
+   },
+   {
+    "t": "Es falso que el LUM coloca a Sendero Luminoso como un partido político",
+    "r": "Falso",
+    "d": "2026-06-19",
+    "s": "Ahora bien, a partir de las imágenes publicadas por usuarios en Google Maps, la red AmaLlulla pudo confirmar que la fotografía ―en la que se basa la versión objeto de esta verificación― omite información de un registro más amplio en el que sí se califica a Sendero Luminoso como un grupo terrorista en una de las exposiciones del LUM.",
+    "img": "img/56cebba20cdc6340f4a9.jpg",
+    "id": "es-falso-que-el-lum-coloca-a-sendero-luminoso-como-un-partido-politico"
+   },
+   {
+    "t": "Es falsa supuesta celebración de triunfo de Fujimori en el extranjero",
+    "r": "Falso",
+    "d": "2026-06-17",
+    "s": "Tras una búsqueda inversa de imágenes con la herramienta Google Lens, AmaLlulla comprobó que el video original corresponde al registro de un grupo de aficionados de la selección de fútbol de Países Bajos que se encontraba alentando y celebrando antes de disputarse un partido con la selección de Japón en Dallas, ubicada en el estado de Texas en Estados Unidos, uno de los países sede del Mundial de Fútbol 2026.",
+    "img": "img/55ade1e0d79330ed131a.jpg",
+    "id": "es-falsa-supuesta-celebracion-de-triunfo-de-fujimori-en-el-extranjero"
+   },
+   {
+    "t": "Es falso que plan de Fuerza Popular plantea revisar leyes procrimen",
+    "r": "Falso",
+    "d": "2026-06-05",
+    "s": "Contra lo dicho por el exministro Luis Carranza, el plan de gobierno de Fuerza Popular no contempla en parte alguna la revisión de las leyes denominadas procrimen. Lo que en realidad propone es una reforma del sistema de justicia sin mención alguna a estas normas aprobadas por el último Congreso de la República (2021-julio de 2026).",
+    "img": "img/8642f33f2eeddde636ce.jpg",
+    "id": "es-falso-que-plan-de-fuerza-popular-plantea-revisar-leyes-procrimen"
+   }
+  ],
+  "sort": "manual"
+ },
+ "method": {
+  "lead": "<span style=\"color:rgb(120, 120, 120)\">La verificación del discurso público es una práctica periodística en expansión en todo el mundo. En los últimos años han surgido en distintos países decenas de organizaciones que analizan las declaraciones de gobernantes, autoridades y líderes de opinión, para establecer si estas son ciertas o no.</span><br><span style=\"color:#787878\"><br></span><span style=\"color:rgb(120, 120, 120)\">La vigilancia del discurso público no solo sirve para detectar errores involuntarios o flagrantes falsedades. También se orienta a generar información confiable para los ciudadanos, con base en fuentes públicas o fuentes alternativas calificadas que confirmen, sitúen en contexto o desmientan lo que declaró una autoridad, político o líder de opinión. También sobre el contenido que circula en redes sociales bajo la forma de memes, videos, mensajes de texto, etc.</span><br><span style=\"color:#787878\"><br></span>Solo verificamos afirmaciones y datos de interés público, nunca opiniones. No usamos fuentes anónimas ni «off the record».",
+  "steps": [
+   {
+    "n": "Detección",
+    "d": "Identificamos afirmaciones o datos de interés público en radio, televisión, redes sociales y eventos públicos, incluidos memes, videos y mensajes."
+   },
+   {
+    "n": "Investigación",
+    "d": "Verificamos según estándares internacionales, con fuentes abiertas como bases de datos e informes oficiales, académicos o de la sociedad civil, y consultas a expertos."
+   },
+   {
+    "n": "Contraste de fuentes",
+    "d": "Revisamos al menos tres fuentes identificables, vivas o documentales."
+   },
+   {
+    "n": "Derecho a respuesta",
+    "d": "Cuando es posible, damos a quien hizo la afirmación la oportunidad de dar su versión."
+   },
+   {
+    "n": "Calificación",
+    "d": "La unidad de verificación asigna una de las cinco calificaciones de la red."
+   },
+   {
+    "n": "Edición",
+    "d": "El texto se edita y revisa según estándares periodísticos antes de publicarse."
+   },
+   {
+    "n": "Publicación",
+    "d": "El chequeo se publica y se difunde en redes, radio y podcasts."
+   }
+  ],
+  "ratings": {
+   "Verdadero": "La afirmación tiene sustento verificable en una base de datos oficial o en una fuente alternativa calificada (academia, think tanks o sociedad civil).",
+   "Falso": "La evidencia oficial, o en su ausencia una fuente alternativa calificada, la desmiente de forma concluyente.",
+   "Engañoso": "El dato es literalmente cierto, pero está sacado de contexto y genera una percepción parcial de la realidad.",
+   "Impreciso": "El dato indica una tendencia, pero no es exacto.",
+   "No verificable": "No hay evidencia sólida, oficial o alternativa, para comprobarlo."
+  },
+  "corr": "La red <b>AmaLlulla</b> sigue los estándares internacionales de la práctica periodística denominada <i>fact-checking</i>, que determinan una serie de pasos para analizar la veracidad del discurso público con el fin de ofrecer la información más precisa a los lectores. Del mismo modo, dispone de una política de correcciones, con los procedimientos a seguir cuando se recibe una observación sobre los resultados.<br><br>De presentarse una observación, el editor asignará a un verificador la tarea de revisar el contenido bajo cuestionamiento, realizar el contraste pertinente, consultar fuentes y determinar el valor de la nueva evidencia. Si como fruto de esa revisión se identificara un error en el chequeo, se harán los ajustes tanto en la calificación original como en un texto detallado al pie del contenido, en que se explique el procedimiento y se otorgue la nueva calificación.<br><br>En el texto se consignará de manera clara y específica que se trata de una corrección y se incorporarán los nuevos elementos al texto original. Este procedimiento debe tomar un máximo de 48 horas desde el momento en que el equipo de verificación toma conocimiento de la observación.<br><br>Cuando este aviso se produzca por medio de una carta notarial, se publicará la carta de manera íntegra. Si corresponde, se adjuntará una respuesta de acuerdo a nuestra política editorial. De tratarse de un pedido de rectificación pueden revisar nuestra Políticas de rectificación.<br><br>Actualizado a diciembre del 2022."
+ },
+ "reach": {
+  "title": "Información confiable en tu idioma",
+  "lead": "Los chequeos en versión audio se transmiten en radios locales en zonas andinas y amazónicas, además de videos e ilustraciones para el público urbano.",
+  "langs": [
+   {
+    "n": "Castellano",
+    "d": "Chequeos completos, videos e ilustraciones para redes sociales."
+   },
+   {
+    "n": "Aimara",
+    "d": "Podcasts traducidos para la radio en regiones andinas."
+   },
+   {
+    "n": "Quechua",
+    "d": "Podcasts traducidos para la radio en regiones andinas."
+   },
+   {
+    "n": "Awajún",
+    "d": "Podcasts traducidos para comunidades de la Amazonía."
+   }
+  ],
+  "items": [
+   {
+    "n": "Radios regionales",
+    "d": "Radios aliadas en regiones andinas y amazónicas llevan los chequeos a zonas sin buena conexión a internet."
+   },
+   {
+    "n": "Talleres gratuitos",
+    "d": "Capacitaciones virtuales en verificación para periodistas, universitarios y jóvenes."
+   },
+   {
+    "n": "Alfabetización mediática",
+    "d": "Trabajo con universidades sobre pensamiento crítico y cómo detectar información falsa."
+   }
+  ],
+  "map": {
+   "t": "Medios aliados por región",
+   "type": "bar",
+   "src": "manual",
+   "color": "detail",
+   "rows": [
+    {
+     "l": "Puno",
+     "v": 5
+    },
+    {
+     "l": "Loreto",
+     "v": 4
+    },
+    {
+     "l": "Nacional",
+     "v": 4
+    },
+    {
+     "l": "Arequipa",
+     "v": 3
+    },
+    {
+     "l": "Cusco",
+     "v": 3
+    },
+    {
+     "l": "Amazonas",
+     "v": 1
+    },
+    {
+     "l": "Apurímac",
+     "v": 1
+    },
+    {
+     "l": "Ayacucho",
+     "v": 1
+    },
+    {
+     "l": "Huánuco",
+     "v": 1
+    },
+    {
+     "l": "Junín",
+     "v": 1
+    },
+    {
+     "l": "La Libertad",
+     "v": 1
+    },
+    {
+     "l": "Piura",
+     "v": 1
+    },
+    {
+     "l": "San Martín",
+     "v": 1
+    },
+    {
+     "l": "Tacna",
+     "v": 1
+    },
+    {
+     "l": "Ucayali",
+     "v": 1
+    }
+   ],
+   "note": "29 medios aliados: 25 en 14 regiones y 4 de alcance nacional."
+  }
+ },
+ "join": {
+  "title": "Suma tu medio a la red",
+  "lead": "Medios locales, regionales o nacionales pueden sumarse a la red adhiriéndose a su código de principios.",
+  "faq": [
+   {
+    "q": "¿Quién puede unirse?",
+    "a": "Medios periodísticos independientes de cualquier región del Perú, sean digitales, impresos o radiales."
+   },
+   {
+    "q": "¿Qué compromisos asume un medio?",
+    "a": "Adherirse al código de principios: imparcialidad, transparencia de fuentes, metodología estándar y política de correcciones."
+   },
+   {
+    "q": "¿Ofrecen capacitación?",
+    "a": "Sí. La red organiza talleres virtuales gratuitos de verificación de datos."
+   },
+   {
+    "q": "¿Cómo reporto un contenido sospechoso?",
+    "a": "Por medio de nuestras redes sociales o correo electrónico."
+   }
+  ],
+  "formUrl": ""
+ },
+ "footer": {
+  "d": "Red de medios independientes de verificación del Perú.",
+  "c": "Contáctanos en red.amallulla@gmail.com",
+  "social": [
+   {
+    "n": "Instagram",
+    "u": "https://www.instagram.com/redamallulla/"
+   },
+   {
+    "n": "X",
+    "u": "https://x.com/Red_AmaLlulla"
+   },
+   {
+    "n": "Facebook",
+    "u": "https://www.facebook.com/AmaLlulla2021"
+   },
+   {
+    "n": "YouTube",
+    "u": ""
+   },
+   {
+    "n": "TikTok",
+    "u": "https://www.tiktok.com/@redamallulla"
+   }
+  ]
+ },
+ "design": {
+  "preset": "custom",
+  "light": {
+   "bg": "#ffffff",
+   "surface": "#000000",
+   "ink": "#787878",
+   "muted": "#7d7d7d",
+   "line": "#8A8A8A",
+   "primary": "#127864",
+   "accent": "#8B5E3C",
+   "detail": "#8FD1BE",
+   "ok": "#00983F",
+   "bad": "#E20616",
+   "warn": "#FAB400",
+   "imp": "#2D2E83",
+   "nv": "#9A9A9A"
+  },
+  "dark": {
+   "bg": "#000000",
+   "surface": "#2d2d2d",
+   "ink": "#FFFFFF",
+   "muted": "#E6E6E6",
+   "line": "#8A8A8A",
+   "primary": "#8FD1BE",
+   "accent": "#D9BF9C",
+   "detail": "#8FD1BE",
+   "ok": "#00983F",
+   "bad": "#E20616",
+   "warn": "#FAB400",
+   "imp": "#2D2E83",
+   "nv": "#9A9A9A"
+  },
+  "fontDisplay": "Bricolage Grotesque",
+  "fontBody": "Literata",
+  "fs": 17,
+  "lh": 1.5,
+  "h1s": 1,
+  "h2s": 1,
+  "maxw": 1120,
+  "sp": 72,
+  "radius": 10,
+  "buttons": "pill",
+  "shadows": false,
+  "heroAlign": "center",
+  "tocapu": false,
+  "proto": false,
+  "logoText": true,
+  "officialLogo": true,
+  "logoTag": true,
+  "squareHero": true,
+  "css": "",
+  "fontNews": "Noto Serif",
+  "pages": true,
+  "homeCards": false,
+  "singleTheme": true,
+  "socTop": true,
+  "socFoot": false,
+  "socSize": 20,
+  "headAuto": true,
+  "heroLogo": true,
+  "footHide": [
+   "alcance",
+   "cifras",
+   "quispe"
+  ]
+ },
+ "layout": {
+  "order": [
+   "specials",
+   "checks",
+   "explainers",
+   "reels",
+   "hero",
+   "about",
+   "method",
+   "quispe",
+   "reach",
+   "cifras",
+   "join"
+  ],
+  "hidden": [],
+  "nav": {
+   "specials": "Especiales",
+   "hero": "Inicio",
+   "about": "Quiénes somos",
+   "cifras": "Cifras",
+   "checks": "Verificaciones",
+   "explainers": "Explicadores",
+   "reels": "Videos",
+   "method": "Metodología",
+   "quispe": "Quispe Chequea",
+   "reach": "Alcance",
+   "join": "Únete"
+  }
+ },
+ "brand": {
+  "name": "Ama Llulla",
+  "tag": "Red de verificación",
+  "logo": "",
+  "heroImg": ""
+ },
+ "cifras": {
+  "title": "La red en cifras",
+  "lead": "Gráficos que se actualizan solos a partir de los chequeos y explicadores publicados en esta página. También puedes crear gráficos con tus propios datos.",
+  "charts": [
+   {
+    "t": "Chequeos por calificación y explicadores",
+    "type": "bar",
+    "src": "ratings",
+    "color": "auto",
+    "rows": [],
+    "note": ""
+   },
+   {
+    "t": "Chequeos y explicadores publicados por mes",
+    "type": "column",
+    "src": "months",
+    "color": "primary",
+    "rows": [],
+    "note": ""
+   },
+   {
+    "t": "Proporción de chequeos y explicadores",
+    "type": "donut",
+    "src": "ratings",
+    "color": "auto",
+    "rows": [],
+    "note": ""
+   }
+  ]
+ },
+ "labels": {
+  "moreSps": "Ver más especiales",
+  "allSps": "Todos los informes especiales",
+  "loadMoreSps": "Cargar más especiales",
+  "moreExps": "Ver más explicadores",
+  "allExps": "Todos los explicadores",
+  "loadMoreExps": "Cargar más explicadores",
+  "moreChecks": "Ver más chequeos",
+  "allChecks": "Todos los chequeos",
+  "loadMore": "Cargar más chequeos",
+  "nameEyebrow": "El nombre",
+  "btn1": "Ver verificaciones",
+  "btn1Url": "#verificaciones",
+  "btn2": "Cómo verificamos",
+  "btn2Url": "#metodologia",
+  "tabOrigen": "Origen",
+  "tabMiembros": "Aliados",
+  "tabAliados": "Impulso",
+  "tabHistoria": "Historia",
+  "checksTitle": "chequeos",
+  "methodTitle": "Cómo verificamos",
+  "ratingsTitle": "Nuestras calificaciones",
+  "corrTitle": "Política de correcciones",
+  "formBtn": "Enviar solicitud",
+  "formLink": "Abrir el formulario de inscripción",
+  "more": "Ver resumen →",
+  "readFull": "Leer el chequeo completo",
+  "srcLabel": "Fuentes:",
+  "searchLabel": "Buscar",
+  "searchPh": "Ej.: JNE, CVR, Congreso…",
+  "recent": "Reciente",
+  "menu": "Menú",
+  "all": "Todas",
+  "empty": "No hay chequeos con ese filtro. Prueba con otra calificación o borra la búsqueda.",
+  "prev": "← Anterior",
+  "next": "Siguiente →",
+  "step": "Paso",
+  "of": "de",
+  "explore": "Explora la red",
+  "go": "Ver página →",
+  "prevPage": "Anterior",
+  "nextPage": "Siguiente"
+ },
+ "blocks": {},
+ "seo": {
+  "title": "Red Ama Llulla",
+  "desc": "",
+  "url": "",
+  "img": ""
+ },
+ "styles": {
+  "hero.lead": {
+   "c": "#e6e6e6"
+  },
+  "hero.t1": {
+   "c": "blanco"
+  },
+  "hero.stats.0.l": {
+   "c": "blanco"
+  },
+  "hero.stats.1.l": {
+   "c": "blanco"
+  },
+  "hero.stats.2.l": {
+   "c": "blanco"
+  },
+  "hero.t2": {
+   "z": 0.6
+  },
+  "hero.q": {
+   "c": "blanco"
+  },
+  "labels.nameEyebrow": {
+   "c": "blanco"
+  },
+  "method.lead": {
+   "w": 772
+  }
+ },
+ "secStyle": {
+  "about": {},
+  "cifras": {},
+  "checks": {},
+  "method": {},
+  "reach": {},
+  "join": {},
+  "explora": {
+   "hc": "#000000",
+   "bgc": "#ffffff",
+   "fg": "#000000"
+  },
+  "pagenav": {},
+  "explainers": {},
+  "reels": {}
+ },
+ "zones": {
+  "header": {
+   "ic": "#ffffff"
+  },
+  "pagebar": {},
+  "hero": {
+   "img": "img/b3752d64e9106234fa08.jpg",
+   "bg": "#0a0a0c",
+   "fg": "#f2f2f0"
+  },
+  "cards": {},
+  "buttons": {},
+  "footer": {
+   "bg": "#F3E9DA",
+   "fg": "#000000"
+  }
+ },
+ "iconLib": {
+  "Instagram": "img/29c74775d98aac31b8ff.png",
+  "X": "img/4c37137d0f5fc73a9109.png",
+  "Facebook": "img/10a10df9aa498843ff78.png",
+  "YouTube": "img/5fc983ac0b12e22ec4dc.png",
+  "TikTok": "img/bc097c89365c7b8ffcd5.png"
+ },
+ "explainers": {
+  "title": "Explicadores",
+  "lead": "Textos que explican a fondo los temas de la agenda pública.",
+  "items": [
+   {
+    "id": "titular",
+    "t": "Titular",
+    "d": "2026-10-27",
+    "s": "Bajada",
+    "u": "",
+    "fu": [],
+    "img": "img/f772685be17ffc0dd067.jpg",
+    "cap": "Foto: Andina.",
+    "body": "<p>Textoooo.</p>",
+    "draft": true
+   },
+   {
+    "id": "explicador-conoce-como-se-elegiran-las-autoridades-de-mas-de-3-mil-cen",
+    "t": "Explicador: Conoce cómo se elegirán las autoridades de más de 3 mil centros poblados",
+    "d": "2026-10-16",
+    "s": "Las últimas elecciones del año en el país se realizarán en noviembre: más de tres millones de personas elegirán las autoridades de los centros poblados en todo el Perú. Aquí, una explicación sobre las características de este proceso.",
+    "u": "",
+    "fu": [],
+    "body": "<p><b></b></p><p>El primer domingo de noviembre se realizará el tercer proceso electoral del 2026 en el Perú. En estos comicios, 3’382.774 ciudadanos <a href=\"https://www.gob.pe/institucion/reniec/noticias/1411904-elecciones-en-centros-poblados-2026-mas-de-3-3-millones-de-electores-a-nivel-nacional-se-encuentran-habilitados\" target=\"_blank\" rel=\"noopener\">acudirán</a> a las urnas para elegir a las <a href=\"https://www.facebook.com/reel/1832857431487568\" target=\"_blank\" rel=\"noopener\">autoridades</a> de 3398 <a href=\"https://www.gob.pe/institucion/reniec/noticias/1411904-elecciones-en-centros-poblados-2026-mas-de-3-3-millones-de-electores-a-nivel-nacional-se-encuentran-habilitados\" target=\"_blank\" rel=\"noopener\">municipalidades</a> de centros poblados (CC. PP.). En cada jurisdicción se <a href=\"https://img.lpderecho.pe/wp-content/uploads/2026/01/Resolucion-0749-2025-JNE-LPDerecho.pdf\" target=\"_blank\" rel=\"noopener\">elegirá</a> a un alcalde y cinco regidores.</p><p>Las elecciones de autoridades de municipalidades de CC. PP., por su forma de organización, constituyen un proceso electoral distinto de las elecciones generales y de los comicios regionales y municipales.</p><p>Los ciudadanos que residen en estos CC. PP. eligen a sus alcaldes y regidores “para que los representen y gestionen asuntos de su comunidad”, según el <a href=\"https://www.gob.pe/institucion/reniec/campa%C3%B1as/130598-elecciones-de-autoridades-de-municipalidades-de-centros-poblados-2026\" target=\"_blank\" rel=\"noopener\">portal web</a> del Registro Nacional de Identificación y Estado Civil (Reniec).</p><p>Estas elecciones se realizan cada <a href=\"https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H881826\" target=\"_blank\" rel=\"noopener\">cuatro años</a> y son organizadas por “la municipalidad provincial, en coordinación con las municipalidades distritales correspondientes de su jurisdicción”, de acuerdo con el <a href=\"https://portal.jne.gob.pe/portal_documentos/files/f2549358-8579-442f-aaca-bc9ac516d8b5.pdf\" target=\"_blank\" rel=\"noopener\">cronograma electoral</a> vigente, elaborado y aprobado por la Oficina Nacional de Procesos Electorales (ONPE).</p><p>En concreto, la municipalidad provincial elige por <a href=\"https://portal.jne.gob.pe/portal/Pagina/Ver/1236/page/Elecciones-de-Autoridades-de-Municipalidades-de-Centros-Poblados-2026\" target=\"_blank\" rel=\"noopener\">sorteo</a> un comité electoral en cada CC. PP. Este grupo de trabajo debe estar integrado por cinco pobladores que residen en su territorio y que se encargan de organizar el proceso.</p><p>Asimismo, la ONPE <a href=\"https://portal.jne.gob.pe/portal/Pagina/Ver/1236/page/Elecciones-de-Autoridades-de-Municipalidades-de-Centros-Poblados-2026\" target=\"_blank\" rel=\"noopener\">brinda</a> asistencia técnica a las municipalidades provinciales, mientras que el Jurado Nacional de Elecciones (JNE) <a href=\"https://portal.jne.gob.pe/portal/Pagina/Ver/1236/page/Elecciones-de-Autoridades-de-Municipalidades-de-Centros-Poblados-2026\" target=\"_blank\" rel=\"noopener\">supervisa</a> los comicios.</p><p>Según información del Reniec, actualizada al 15 de octubre y <a href=\"https://drive.google.com/file/d/19DL6LOQu-QvWS5G04OWfUVDMXOSRY8wl/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">remitida</a> a <b>AmaLlulla</b>, Cajamarca encabeza la lista de regiones con más ciudadanos habilitados para participar en las elecciones de autoridades de CC. PP., con poco más de medio millón de votantes, cerca del 15 % del total de electores convocados en este proceso.</p><p>Le siguen La Libertad (294.717), Puno (279.951), Piura (270.529) y Huánuco (248.540). En conjunto, estas cinco regiones concentran cerca de la mitad (47,2 %) de los 3’382.774 ciudadanos habilitados para votar en estos comicios.</p><p><img src=\"img/875a997405a2459053e8.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>GRÁFICOS. Regiones con mayores y menores electores para los comicios del próximo 1 de noviembre. Fuente: Reniec. Elaboración: AmaLlulla.</i></p><p>En el otro extremo, las regiones Ica (7388) y Tacna (9738) registran las cifras más bajas de electores habilitados, seguidas por Madre de Dios (24.353), Moquegua (29.339) y Arequipa (34.288).</p><p>La diferencia es marcada: Cajamarca tiene más de 68 veces la cantidad de electores de Ica.</p><p>En conjunto, las cinco regiones con menos electores suman 105.106 personas, apenas el 3,1 % del total de ciudadanos habilitados para este proceso.</p><p>Lima, por su parte, ocupa el puesto 15 de las 24 regiones consideradas, con 69.064 electores.</p><p>En resumen, las elecciones de centros poblados se diferencian de otros procesos electorales por su organización: las municipalidades provinciales son las encargadas de conducirlas, con asistencia técnica de la ONPE y supervisión del JNE. En ellas, más de tres millones de ciudadanos elegirán a un alcalde y cinco regidores en cada una de las 3398 municipalidades de centros poblados.</p><p></p>",
+    "cap": "Foto: ONPE.",
+    "img": "img/81f80b7e7577f03df74a.jpg"
+   }
+  ]
+ },
+ "reels": {
+  "title": "Videos recientes",
+  "lead": "Lo último que publicamos en Instagram.",
+  "profile": "https://www.instagram.com/redamallulla/",
+  "more": "Ver más en Instagram",
+  "items": [
+   {
+    "u": "https://www.instagram.com/reel/De-MwETzCxf/",
+    "t": "Explicador: Conoce cómo se organizan las elecciones de autoridades de centros poblados",
+    "img": "img/165a269755b61401e5f5.jpg",
+    "d": "2026-10-26"
+   },
+   {
+    "u": "https://www.instagram.com/reel/De9xLKBtM9q/",
+    "t": "Explicador: Así se elegirán las autoridades de más de 3 mil centros poblados",
+    "img": "img/3a7f664d8abcb779e203.jpg",
+    "d": "2026-10-26"
+   },
+   {
+    "u": "https://www.instagram.com/reel/De4TBDtzaxL/",
+    "t": "Explicador: Más de 3 millones de ciudadanos votarán por autoridades de centros poblados",
+    "img": "img/26134b438a720008fc9f.jpg",
+    "d": "2026-10-23"
+   },
+   {
+    "u": "https://www.instagram.com/reel/De0HRSmzv7p/",
+    "t": "Explicador: Estas son las causas válidas para solicitar tu justificación o dispensa electoral",
+    "img": "img/09a50290c84e005a10de.jpg",
+    "d": "2026-10-22"
+   }
+  ]
+ },
+ "pageDefs": [
+  {
+   "id": "inicio",
+   "label": "Inicio",
+   "items": [
+    "specials",
+    "checks",
+    "explainers",
+    "reels"
+   ]
+  },
+  {
+   "id": "quienes",
+   "label": "Quiénes somos",
+   "items": [
+    "hero",
+    "about"
+   ]
+  },
+  {
+   "id": "verificamos",
+   "label": "Cómo verificamos",
+   "items": [
+    "method"
+   ]
+  },
+  {
+   "id": "quispe",
+   "label": "Quispe Chequea",
+   "items": [
+    "quispe"
+   ]
+  },
+  {
+   "id": "alcance",
+   "label": "Alcance",
+   "items": [
+    "reach"
+   ]
+  },
+  {
+   "id": "cifras",
+   "label": "Cifras",
+   "items": [
+    "cifras"
+   ]
+  },
+  {
+   "id": "unete",
+   "label": "Únete",
+   "items": [
+    "join"
+   ]
+  }
+ ],
+ "specials": {
+  "title": "Informes especiales",
+  "lead": "Investigaciones y coberturas a fondo de la red.",
+  "items": [
+   {
+    "id": "datos-falsos-enganosos-o-ciertos-de-los-candidatos-presidenciales-2026",
+    "t": "Datos falsos, engañosos o ciertos de los candidatos presidenciales 2026",
+    "d": "2026-04-02",
+    "s": "La red AmaLlulla identificó inconsistencias en torno a temas centrales como seguridad ciudadana y lucha contra la criminalidad; integridad pública y lucha contra la corrupción; empleo, desarrollo y emprendimiento; y educación, innovación y tecnología.",
+    "u": "",
+    "fu": [],
+    "body": "<p><b></b></p><p>A pocos días de la elección presidencial del 12 de abril, un total de 34 candidatos a la presidencia del país participaron de una serie de debates en los que expusieron versiones erróneas, falsas, imprecisas, engañosas y ciertas sobre temáticas sociales, económicas y de otra índole. Con base en evidencia documental e información oficial, la red <b>AmaLlulla</b> desmontó y brindó las siguientes precisiones en torno al discurso de los aspirantes al sillón presidencial del 2026.</p><p><br></p><p>Jorge Nieto Montesinos, candidato presidencial del Partido del Bueno Gobierno</p><p><i>\"La tasa de desempleo juvenil triplica la tasa de desempleo general del país. 15% versus 4%\"</i></p><p>Calificación: Falso</p><p><img src=\"img/902029ef11b1465003d7.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Foto: Captura de transmisión de YouTube del JNE.&nbsp;</i></p><p>En realidad, el índice de desempleo nacional es poco menos de la mitad de la tasa juvenil.</p><p>La tasa de desempleo nacional es de 4,9% y el índice de desempleo en jóvenes de 14 a 24 años es de 10,7%, según el informe técnico “Perú: Comportamiento de los Indicadores del Mercado Laboral a nivel Nacional y en 27 Ciudades”, con data actualizada al cuarto trimestre de 2025, publicado en febrero de 2026 por el INEI.</p><p>Nieto agregó lo siguiente respecto a su afirmación: “15% [de tasa de desempleo juvenil] versus 4% [de índice de desempleo nacional]”. Estas cifras tampoco coinciden con la data oficial. El INEI considera como grupo joven a personas entre 14 y 24 años. Para alcanzar las cifras indicadas por Nieto, tendría que sumarse el grupo de adultos de 25 a 44 años, que registra 4,4% de desempleo.</p><p><br></p><p>Rosario Fernández, candidata presidencial por Un Camino Diferente</p><p><i>“Ocupamos el último lugar en comprensión lectora y razonamiento matemático”</i></p><p>Calificación: Falso</p><p><img src=\"img/00d363a34289da7f2b89.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>Los resultados más recientes sobre este tema son los de la evaluación PISA 2022. En ese estudio, el Perú no ocupó el último lugar en ninguna de las tres competencias evaluadas: Matemática, Ciencias y Lectura.</p><p>En Matemática se ocupó el puesto 59; en el ámbito de Lectura se alcanzó el lugar 55; y en Ciencia, se ocupó el puesto 59 de los 81 países participantes.</p><p><img src=\"img/2b1c77ca3ceedefdf619.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Medida promedio en Matemática, Lectura y Ciencia de los países participantes en PISA 2022 (Fuente: MINEDU).</i></p><p>Con relación a Latinoamérica, tampoco ocupamos el último lugar. Inclusive se registró una posición expectante en Matemática, al ocupar el cuarto lugar. En el caso de la competencia sobre Lectura, se ocupó el séptimo lugar. En Ciencia, el país se ubicó en el sexto lugar de los 13 países evaluados en la región.</p><p><img src=\"img/1670f0ef7f1ae18d029d.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Medida promedio en Matemática, Lectura y Ciencia de Perú y países de Latinoamérica en PISA 2022 (Fuente: MINEDU)</i></p><p>La prueba PISA 2022 se aplicó entre el 29 de agosto y el 7 de octubre de ese año, y sus resultados son considerados los más recientes en este tema. En total, 8.787 estudiantes fueron evaluados, en todos los niveles de secundaria, aunque la mayoría correspondía al cuarto año (69.7% de la muestra señalada).&nbsp;</p><p>Aún está pendiente la publicación de la prueba PISA 2025, programada para diciembre de 2026.</p><p>Wolfgang Grozo, candidato presidencial por Integridad Democrática</p><p>“¿Sabían ustedes que retornan al Minedu 4 mil millones de soles al año?”</p><p>Calificación: Falso</p><p><img src=\"img/93d5305c60547a0d1e01.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>\t\t\t\tFoto: Jurado Nacional de Elecciones</i></p><p>Al cierre del 2025, el Presupuesto Institucional Modificado (PIM) del Ministerio de Educación ascendió a S/10.137 millones. De ese monto, se gastó un total de S/9.146 millones, según datos de la plataforma Consulta Amigable del MEF.&nbsp;&nbsp;</p><p>Los recursos que no se ejecutaron, es decir, la diferencia, fueron S/991'315.390 (novecientos millones trescientos quince mil trescientos noventa soles).</p><p>Esta cifra es cerca de 3 mil millones menos que lo señalado por el candidato Grozo.</p><p>De hecho, en ningún ejercicio de los últimos 4 años el Minedu devolvió al tesoro público 4 mil millones de soles de su presupuesto.&nbsp;</p><p>En ese periodo, siempre el monto no ejecutado fue menor a mil millones, como figura a continuación:</p><ul><li><p>2025 = S/991'315.390</p></li><li><p>2024 = S/197'826.378</p></li><li><p>2023 = S/376'712.639</p></li><li><p>2022 = S/226'918.678</p></li></ul><p><br></p><p>Yonhy Lescano, candidato presidencial por Cooperación Popular</p><p><i>“No se sabe que en el Perú hay 22 mil colegios que están destruidos”</i></p><p>Calificación: Impreciso</p><p><img src=\"img/9d9ec4f47f4766250a25.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Foto: Jurado Nacional de Elecciones</i></p><p>La cifra mencionada por Yonhy Lescano no coincide con los datos oficiales más recientes del Programa Nacional de Infraestructura Educativa (Pronied).</p><p>En su último Informe de Gestión Mayo 2024-2026, publicado el 18 de marzo último, la entidad informó que en el país existen 27.985 locales educativos con infraestructura dañada. Esto representa el 50% de los espacios existentes.</p><p>La cifra corresponde a instituciones educativas con al menos el 70% de su infraestructura “en riesgo de colapso”. Estos locales, de acuerdo al Pronied, deben reconstruirse en su totalidad.&nbsp;</p><p>Esta situación afecta a 1'300.192 estudiantes a nivel nacional de Educación básica (regular, especial y alternativa) y Educación no superior (CETPRO, IST, ISP y ESFA).</p><p><img src=\"img/f114dc3973c2e584d917.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Captura Informe de Gestión Mayo 2024-2026 PRONIED</i></p><p><br></p><p>Carlos Álvarez, candidato presidencial por País Para Todos</p><p><i>“Tres millones de jóvenes se fueron en los últimos 10 años”</i></p><p>Calificación: Falso</p><p><img src=\"img/e0cbf337c437c7d799e3.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Foto: El Peruano.</i></p><p>Según el informe “Perú: estadísticas de migración internacional al 2025” —publicado enero de 2026, de manera conjunta, por el INEI y la Superintendencia Nacional de Migraciones—, un total 3'698.873 peruanos emigraron al extranjero desde 1994 hasta junio de 2025.</p><p>Es decir, en el lapso de veinte años, y no en diez años, como indicó el candidato presidencial Carlos Álvarez.</p><p><img src=\"img/97c2649501898eefe291.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Perú: Estadísticas de la Migración Internacional, al 2025 (INEI-Migraciones).</i></p><p>Con relación a los jóvenes, las cifras oficiales más recientes señalan que, entre 2010 y 2019, emigraron 363.498 peruanos de entre 15 y 29 años. Luego de eso, entre 2020 y 2024, lo hicieron 228.581. Esto no coincide con el dato del candidato Álvarez.</p><p>De manera oficial, se considera emigrante internacional a una persona que ha salido del país por al menos un año sin registrar su retorno hasta el 30 de junio de 2025.&nbsp;</p><p>Marisol Pérez Tello, candidata presidencial por Primero la Gente</p><p><i>“Desde el 28 de julio del 2016 hasta ahora hay 345 ministros y 18 ministros de Educación”</i></p><p>Calificación: Verdadero</p><p><img src=\"img/e799bf84040c10a48beb.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>Según la <a href=\"https://www.gob.pe/institucion/minedu/informes-publicaciones/1307865-nomina-de-ministros-del-ministerio-de-educacion\" target=\"_blank\" rel=\"noopener\">Nómina de Ministros del Ministerio de Educación</a>, que figura en el portal oficial del Estado Peruano, desde el 2016 a la fecha, el Minedu ha estado a cargo de 18 ministros.</p><p>El primero de este periodo fue Jaime Saavedra, quien estuvo en el cargo desde octubre de 2013, durante el gobierno de Ollanta Humala, hasta diciembre de 2016, durante el gobierno de Pedro Pablo Kuczynski.</p><p>Posteriormente pasaron por esta cartera Marilú Martens, Idel Vexler, Daniel Alfaro, Flor Pablo, Morgan Quero, entre otros.</p><p>En el 2021, el Minedu tuvo cuatro ministros distintos.</p><p>En el actual gobierno de José María Balcázar, la lista se incrementó con dos ministros: Erfurt Castillo y la actual titular, María Cuadros.</p><p>La lista de ministros de Educación desde el 28 de julio de 2016 hasta la actualidad figura a continuación:</p><ul><li><p>Jaime Saavedra Chanduví</p></li><li><p>Marilú Martens</p></li><li><p>Idel Vexler</p></li><li><p>Daniel Alfaro Paredes</p></li><li><p>Flor Aideé Pablo Medina</p></li><li><p>Carlos Martín Benavides Abanto</p></li><li><p>Ricardo David Cuenca Pareja</p></li><li><p>Juan Raúl Cadillo León</p></li><li><p>Carlos Alfonso Gallardo Gómez</p></li><li><p>Rosendo Leoncio Serna Román</p></li><li><p>Carmen Patricia Correa Arangoitia</p></li><li><p>Oscar Manuel Becerra Tresierra</p></li><li><p>Magnet Carmen Márquez Ramírez</p></li><li><p>Miriam Janette Ponce Vertiz</p></li><li><p>Morgan Niccolo Quero Gaime</p></li><li><p>Jorge Eduardo Figueroa Guzmán</p></li><li><p>Erfurt Manuel Castillo Vera</p></li><li><p>María Esther Cuadros Espinoza (actual)</p></li></ul><p><br></p><p>George Forsyth, candidato presidencial por Somos Perú</p><p><i>“Más de tres millones ni siquiera tienen acceso al agua”</i></p><p>Calificación: Verdadero</p><p><img src=\"img/2e39e5aa1923ec75f9d2.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>La data oficial más actualizada corresponde a la Encuesta Nacional de Programas Presupuestales del INEI, al 2024, según la cual la población sin acceso al servicio de agua por red pública es de aproximadamente 3'309.892 personas.</p><p>Según otro indicador de la encuesta, de poco más de 10 millones de hogares en el país, 988.758 no tienen acceso a este servicio.</p><p>A una consulta previa de <b>OjoPúblico</b>, el Ministerio de Vivienda, Construcción y Saneamiento (MVCS) señaló que la población sin acceso a agua potable por red pública es la que, a falta de esta, tiene que abastecerse por medios alternativos como: camiones cisterna, pozo, manantial o puquio, río, acequia, lago o laguna, la red pública de la casa del vecino o cualquier otra forma.</p><p>Fiorella Molinelli, candidata presidencial por Fuerza y Libertad,</p><p><i>“20% de los jóvenes no tienen empleo”</i></p><p>Calificación: Falso</p><p><img src=\"img/a8e670cef73c5f036cd9.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Captura: Transmisión del JNE.</i></p><p>En realidad, el índice de desempleo nacional en jóvenes de 14 a 24 años es de 10,7%, según el informe técnico \"Perú: Comportamiento de los indicadores del mercado laboral a nivel nacional y en 27 ciudades\", con data actualizada al cuarto trimestre del 2025, publicado por el INEI en febrero del 2026.</p><p>Esta cifra es cerca de 10 puntos porcentuales menos que lo señalado por la candidata Molinelli.</p><p>En relación al año anterior (2024) el desempleo en los menores de 25 años se ha reducido en forma significativa en 0,8 punto porcentual”, indica el último informe técnico del INEI sobre el tema.</p><p>Incluso si se suma al grupo etario de 25 a 44 años, la tasa de desempleo de este universo aumenta a 15,1%. Esto equivale a 4,9% menos que lo indicado por la candidata Molinelli.</p><p>Yonhy Lescano, candidato presidencial por Cooperación Popular</p><p><i>“La ley de presupuesto de este año ha bajado los recursos económicos para Beca 18 de casi 800 millones a 50 millones”</i></p><p>Calificación: Falso</p><p><img src=\"img/ec9a1da3450c6302f20b.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>En principio, <a href=\"https://www.pronabec.gob.pe/beca-18/\" target=\"_blank\" rel=\"noopener\">Beca 18</a> es un servicio del Programa Nacional de Becas y Crédito Educativo (Pronabec) que permite a egresados de quinto de secundaria, que posean alto rendimiento académico y bajos recursos económicos, acceder a una carrera en las mejores universidades, institutos o escuelas superiores del país con todos los gastos cubiertos por el Estado peruano.</p><p>El <a href=\"https://www.pronabec.gob.pe/wp-content/uploads/2026/02/7778068-rde-n-033-2026-minedu-vmgi-pronabec.pdf\" target=\"_blank\" rel=\"noopener\">presupuesto asignado a Beca 18 en el 2026</a> asciende a 100 millones de soles, con lo que se tiene previsto financiar hasta 5.184 becas con este propósito.</p><p>Si bien el monto de este año representa un recorte notorio respecto a los S/382'229.729 que se le asignaron en 2025, como se indica en la <a href=\"https://cdn.www.gob.pe/uploads/document/file/6938514/5987321-rde-n-113-2024-minedu-vmgi-pronabec.pdf?v=1726261404\" target=\"_blank\" rel=\"noopener\">Resolución Directoral Ejecutiva 113-2024</a>, no se ha producido una reducción de 800 a 50 millones de soles, como indicó el candidato Lescano.</p><p>Lo que sí ocurrió fue que, a fines de 2025, el <a href=\"https://puntoedu.pucp.edu.pe/actualidad/falta-de-fondos-para-beca-18-afecta-a-20000-futuros-becarios/\" target=\"_blank\" rel=\"noopener\">Pronabec solicitó un presupuesto de S/793 millones para cubrir el servicio en el 2026</a>. Sin embargo, la Ley de Presupuesto del Sector Público para el Año Fiscal 2026 solo le proporcionó S/50 millones.</p><p>Bajo ese contexto, y ante una demanda del Pronabec, el Ministerio de Educación (Minedu) derivó S/50 millones adicionales, con lo que finalmente el presupuesto de Beca 18 alcanzó los 100 millones de soles.&nbsp;</p><p>Mesías Guevara, candidato presidencial por Partido Morado</p><p><i>“El Perú tiene el famoso PerúSAT, un satélite que no se estaba utilizando”</i></p><p>Calificación: Falso</p><p><img src=\"img/fcde0ccf2ffdfbcc8b08.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>El satélite PerúSAT-1 cumplirá 10 años de operación en setiembre de 2026. Según Conida, es parte de un sistema que ha permitido obtener medio millón de imágenes, de las cuales más de 130.000 han sido facilitadas a entidades públicas.</p><p>Estas sirven para la gestión de desastres, monitoreo de actividades ilícitas (minería ilegal, cultivo de hoja de coca) e incluso para la fiscalización de obras públicas.</p><p>Respecto a la gestión de desastres, PerúSAT-1 ha aportado información para afrontar diferentes situaciones críticas, como las inundaciones del 2017 por el Niño Costero, el derrame de petróleo del 2022 en Ventanilla, y las lluvias y desbordes causados en el 2023 por el ciclón Yaku.</p><p>En 2024, sirvió de apoyo en las acciones ante los incendios forestales que estaban afectando la Amazonía y otras regiones.</p><p>En febrero del 2026, la Agencia Espacial del Perú informó que PerúSAT-1 ha permitido monitorear la desglaciación acelerada del nevado Coropuna. La información aportó a una publicación científica basada en la recopilación de imágenes satelitales que abarcan un periodo de 69 años.</p><p>En agosto del 2025, se lanzó GeoAPP, que permite acceder a imágenes satelitales de alta resolución en tiempo real.</p><p>Mario Vizcarra, candidato presidencial por Perú Primero</p><p><i>“Hay 2.300 obras que están paralizadas”</i></p><p>Calificación: Impreciso</p><p><img src=\"img/2d37b7f5c3497cf22644.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>En realidad, la Contraloría General de la República registró 2.416 obras paralizadas en los tres niveles de gobierno, actualizado al 31 de diciembre de 2025, de acuerdo a su último Informe de Obras Públicas Paralizadas.</p><p>El costo total de dichas obras ascendió a S/67.139 millones. De ese total, S/32.243 millones es el saldo de inversión que aún no se gasta.</p><p>A una consulta realizada en febrero del 2026, la Contraloría confirmó a AmaLlulla los datos expuestos en este chequeo en los siguientes términos: “Al 31 de diciembre del 2025, se cuenta con un total de 2.416 obras públicas paralizadas”.</p><p>Cabe decir que una obra paralizada es aquella que, pese al inicio de su ejecución física, no registra avance en por lo menos 6 meses.</p><p>Paul Jaimes, candidato presidencial por el partido político Progresemos</p><p><i>“Ya nos tuvieron en esta competencia [de la Corte IDH] por 47 años y solamente ha defendido a puros delincuentes”</i></p><p>Calificación: Falso</p><p><img src=\"img/2ee072469cb09d81a681.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>La <a href=\"https://www.corteidh.or.cr/que_es_la_corte.cfm\" target=\"_blank\" rel=\"noopener\">Corte Interamericana de Derechos Humanos</a> (Corte IDH) ha emitido <a href=\"https://www.corteidh.or.cr/casos_sentencias.cfm\" target=\"_blank\" rel=\"noopener\">sentencias en contra del Estado peruano en 62 casos distintos</a> y, a diferencia de lo dicho por el candidato Jaimes, diversos de estos casos no tienen nada que ver con imputados penales.</p><p>Entre los casos que no tienen que ver con temas penales está, por ejemplo, el caso Habitantes de la Oroya vs Perú, del año 2023, en el que la Corte responsabilizó al Estado al encontrarlo responsable de la contaminación ambiental de esta ciudad y la salud de 80 de sus habitantes.</p><p>Otro es el caso en que el Tribunal responsabilizó al Estado peruano por la esterilización forzada, y posterior fallecimiento, de Celia Ramos Durand.</p><p>Otra sentencia ajena a temas penales es la del caso Olivera Fuentes vs. Perú, que declaró la responsabilidad del Estado peruano por la vulneración de los derechos a la libertad personal, garantías judiciales, vida privada, igualdad ante la ley y protección judicial del ciudadano Crissthian Manuel Olivera Fuentes, quien fue discriminado por expresar afecto a su pareja del mismo sexo en un centro comercial.</p><p>La Corte IDH también ha intervenido en casos que tienen que ver con el pago de pensiones, como sucedió con la causa Cuadra Bravo vs. Perú, cuya sentencia se dio en el 2025, y en causas en las que se violaron los derechos a la libertad de asociación y a la negociación colectiva, como el Caso Miembros del Sindicato Único de Trabajadores de ECASA (SUTECASA).&nbsp;</p><p>Francisco Diez Canseco, candidato presidencial por Perú Acción</p><p><i>“[...] hay un 38% del presupuesto de la República que se va en gasto corriente”</i></p><p>Calificación: Falso</p><h3><img src=\"img/6d4db377e6e22ce3ae79.jpg\" alt=\"\" loading=\"lazy\"><i><br></i></h3><p><i>Imagen: Andina.</i></p><p>De acuerdo a la <a href=\"https://cdn.www.gob.pe/uploads/document/file/9106009/7475743-ley32513.pdf?v=1764872806\" target=\"_blank\" rel=\"noopener\">Ley de Presupuesto del Sector Público para el Año Fiscal 2026</a>, el Presupuesto Inicial de Apertura (PIA) del Estado para el presente año es de más de 257 mil millones de soles.</p><p>De ese total, S/167.054 millones están destinados al gasto corriente del gobierno central, los gobiernos regionales y los gobiernos locales. Esto, en realidad, equivale al 65% del PIA total del Perú.</p><p>El <a href=\"https://gobierno.pucp.edu.pe/wp-content/uploads/2026/02/el-presupuesto-2026-como-instrumento-de-politica-publica.pdf\" target=\"_blank\" rel=\"noopener\">gasto corriente</a> concentra el presupuesto destinado al funcionamiento regular del Estado; es decir, el pago de salarios y remuneraciones a funcionarios y servidores públicos, como las pensiones, los bienes y servicios, y otros gastos necesarios para la operatividad de las entidades públicas.</p><p><img src=\"img/4a4bc9c26d03f2de1226.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>PRESUPUESTO 2026. Captura de la Ley de Presupuesto del Sector Público para el Año Fiscal 2026, en el que se evidencia que S/167.054 millones están destinados al gasto corriente.</i></p><p>Estos mismos datos están redactados en el documento de análisis “<a href=\"https://gobierno.pucp.edu.pe/wp-content/uploads/2026/02/el-presupuesto-2026-como-instrumento-de-politica-publica.pdf\" target=\"_blank\" rel=\"noopener\">El Presupuesto 2026 como instrumento de política pública</a>”, de la Escuela de Gobierno y Ciencias Políticas de la Pontificia Universidad Católica del Perú (PUCP).</p><p>El estudio agrega que el resto del presupuesto se destina en un 22% a gastos de capital y en 13% al servicio de la deuda.</p><p><img src=\"img/e23771c3ad8a991f2daf.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>DISTRIBUCIÓN. Captura de estudio realizado por la Escuela de Gobierno y Ciencias Políticas de la PUCP en el que se muestra la distribución del presupuesto público de 2026.</i></p><p><br></p><p>George Forsyth, candidato presidencial por Somos Perú</p><p><i>“Quiero hablar sobre el vale FISE también [...], que hoy solamente dan 20 soles”</i></p><p>Calificación: Falso</p><p><img src=\"img/2e39e5aa1923ec75f9d2.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>El vale Fondo de Inclusión Social Energético (FISE) es un cupón de descuento que permite adquirir un balón de gas doméstico (GLP) de hasta 10 kg, y está dirigido a sectores vulnerables del país.</p><p>Aunque el vale FISE otorga una compensación base de S/20 a la mayoría de beneficiarios, existen situaciones donde se aplican montos de S/43, S/63 o, incluso, S/80.</p><p>Los vales por estos montos mayores están dirigidos a beneficiarios que viven en zonas donde se ubican yacimientos de hidrocarburos en explotación, zonas con problemas logísticos para la compra de gas, e incluso a instituciones educativas donde se ejecuta el programa Qali Warma, ollas comunes, y a viviendas que se encuentren ubicadas en los cincuenta distritos más pobres del país.</p><p>En una verificación previa a <a href=\"https://ojo-publico.com/ojobionico/es-impreciso-el-dato-george-forsyth-acerca-del-vale-fise\" target=\"_blank\" rel=\"noopener\">Forsyth sobre este tema</a>, <i>AmaLlulla</i> confirmó que, durante enero de 2026, el programa contó con 1’306.944 beneficiarios facultados para acceder a este vale.</p><p>La cantidad de beneficiarios facultados para recibir vales de S/20 ascendió a 1’129.387, y para el caso de vales de S/43 fueron 168.539.</p><p>En tanto, para vales de S/63 y S/80 fueron 8.070 y 948, respectivamente.</p><p>Carlos Jaico, candidato presidencial de Perú Moderno</p><p><i>“Tenemos un índice de desempleo del 13%”</i></p><p>Calificación: Falso</p><p><img src=\"img/fe343d586ed2ab7a8159.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: El Peruano.</i></p><p>En realidad, el índice de desempleo nacional fue de 4,9%, lo que equivale a 902.100 personas en el 2025, según el <a href=\"https://m.inei.gob.pe/media/MenuRecursivo/boletines/01-informe-tecnico-empleo-nacional.pdf\" target=\"_blank\" rel=\"noopener\">informe técnico</a> \"Perú: Comportamiento de los indicadores del mercado laboral a nivel nacional y en 27 ciudades\", publicado por el Instituto Nacional de Estadística e Informática (INEI). Estos son los datos más actualizados publicados en febrero del 2026.</p><p>El desempleo afectó en mayor proporción a las mujeres (5,7%), en comparación con los hombres (4,2%). Según el análisis por grupos de edad, esta situación fue más desfavorable para los jóvenes menores de entre 14 a 24 años (10,7%).&nbsp;</p><p>Además, la población con educación superior universitaria fue la que concentró la mayor tasa de desempleo, con 6,3%.</p><p><br></p><p><br></p><p>Marisol Pérez Tello, candidata presidencial por Primero La Gente</p><p><i>“En particular, el señor Luna ha votado a favor del impedimento de incautar explosivos de los Reinfos suspendidos”</i></p><p>Calificación: Verdadero</p><p><img src=\"img/e799bf84040c10a48beb.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>El 13 de marzo de 2024, el Pleno del Congreso aprobó el proyecto que derivó en la <a href=\"https://api.congreso.gob.pe/spley-portal-service/archivo/MTcwNzI1/pdf\" target=\"_blank\" rel=\"noopener\">Ley 31989</a>, que eliminó la facultad de la Policía Nacional del Perú para combatir la tenencia ilegal de explosivos por parte de mineros con inscripción suspendida en el Registro Integral de Formalización Minera (Reinfo).</p><p>En detalle, esta ley derogó la disposición complementaria final primera del <a href=\"https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H1365312\" target=\"_blank\" rel=\"noopener\">Decreto Legislativo 1607</a>, cuyo texto reguló la interdicción de actividades mineras desarrolladas por personas acogidas al Proceso de Formalización Minera Integral con inscripción vencida en el Reinfo “que tengan en su poder artefactos o materiales explosivos sin contar con la autorización administrativa correspondiente”.</p><p>José Luna Gálvez, congresista y actual candidato presidencial por Podemos Perú, votó a favor de aprobar este proyecto de ley.</p><p>Además, el Pleno del Congreso decidió que el proyecto sea exonerado de pasar a una segunda votación. En esta instancia, Luna Gálvez también votó a favor.</p><p><img src=\"img/eee85bbc8632e5e451c8.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>A FAVOR. Captura de registro de votación del Congreso que evidencia que Luna Gálvez votó a favor de aprobar la ley que eliminó la facultad de la PNP para combatir la tenencia ilegal de explosivos.</i></p><p>César Acuña, candidato presidencial por Alianza para el Progreso</p><p><i>“Incorporaré a las juntas vecinales y a las rondas campesinas al Sistema Nacional de Seguridad Ciudadana”</i></p><p>Calificación: Engañoso</p><p><img src=\"img/dfe977847bc808558e9b.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Foto: Andina.</i></p><p>En realidad, las juntas vecinales ya participan del Sinasec a través de los denominados comités regionales (Coresec), provinciales (Coprosec) y distritales (Codisec).</p><p>De hecho, el artículo 3 del <a href=\"https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H1116667\" target=\"_blank\" rel=\"noopener\">Reglamento de la Ley 27933</a> reconoce a las juntas vecinales de seguridad ciudadana, promovidas y organizadas por la Policía Nacional, y a las juntas vecinales comunales, elegidas en procesos convocados por los consejos municipales.</p><p>En tanto, las rondas campesinas ya tienen representantes en los comités provinciales y distritales, en sus respectivas jurisdicciones.</p><p>El artículo 37 del reglamento señala que “las entidades que conforman el Sistema Nacional de Seguridad Ciudadana (SINASEC) deben promover la activa participación de la población en acciones de prevención de la violencia y de los delitos, faltas y contravenciones”. Para este fin, dispone la capacitación y asistencia de las juntas vecinales y la coordinación con las rondas campesinas.</p><p><br></p><p>José Luna Gálvez, candidato presidencial por Podemos Perú</p><p><i>“El general Urresti es inocente de acuerdo al Tribunal Constitucional”</i></p><p>Calificación: Falso</p><p><img src=\"img/7066cdb7e48500b24df8.jpg\" alt=\"\" loading=\"lazy\"></p><p><i>Imagen: Debate JNE.</i></p><p>En la sentencia 44/2026, el Tribunal Constitucional (TC) <a href=\"https://www.tc.gob.pe/jurisprudencia/2026/02939-2025-HC.pdf\" target=\"_blank\" rel=\"noopener\">dispuso</a> la liberación del exministro Daniel Urresti bajo el argumento de la prescripción de la acción penal del delito que se le imputó y al considerar que se vulneró “el derecho a ser juzgado en un plazo razonable”.</p><p>Sin embargo, en ningún momento el TC declaró la inocencia de Urresti respecto del crimen del periodista Hugo Bustíos, ocurrido en 1988.</p><p>El TC también aplicó la Ley 32107, que precisa los alcances del delito de lesa humanidad y crímenes de guerra, aprobada por el actual Congreso. No hubo pronunciamiento sobre la responsabilidad atribuida a Urresti en el crimen.</p><p></p>",
+    "img": "img/ddf575da594c64cad915.jpg",
+    "cap": "Foto: JNE. Edición: AmaLlulla."
+   }
+  ]
+ },
+ "quispe": {
+  "eyebrow": "Herramienta de la red",
+  "title": "Verificación con inteligencia artificial en lenguas originarias",
+  "lead": "Quispe Chequea es la plataforma que usan los medios aliados para producir chequeos y convertirlos en audios en quechua, aimara y awajún, listos para difundirse por radio en los Andes y la Amazonía.",
+  "langs": "Quechua · Aimara · Awajún",
+  "note": "Desarrollada por <b>OjoPúblico</b> con el apoyo de la Google News Initiative.",
+  "nameQ": "¿Por qué «Quispe»?",
+  "nameA": "Un millón de personas en el Perú llevan el apellido Quispe, cuyo significado alude a la claridad y la transparencia: lo que buscamos con cada verificación.",
+  "stepsTitle": "Cómo funciona",
+  "steps": [
+   {
+    "n": "Registra la versión",
+    "d": "El comunicador completa un formulario con la estructura de una verificación: la versión detectada, las fuentes que permiten revisarla y los descargos del involucrado."
+   },
+   {
+    "n": "Redacta el chequeo",
+    "d": "Un modelo de lenguaje convierte esos datos en un texto periodístico claro, con buena ortografía y sintaxis, que el equipo revisa y edita."
+   },
+   {
+    "n": "Traduce",
+    "d": "El texto se traduce al quechua, aimara o awajún. Para el awajún, que no tenía un traductor digital, se entrenó un modelo propio."
+   },
+   {
+    "n": "Genera el audio",
+    "d": "Un modelo de síntesis de voz, entrenado con las voces de intérpretes originarios, lee el chequeo. El audio se descarga y se emite por radio."
+   }
+  ],
+  "f1t": "Un gestor con la estructura de un chequeo",
+  "f1d": "La plataforma sigue la metodología de verificación de estándar internacional: evidencia fáctica, identificable y abierta. Tiene campos para colocar textos, editar los resultados, revisar las fuentes y descargar los audios.",
+  "f2t": "De la plataforma a la radio",
+  "f2d": "Los audios llegan a comunidades con poca conexión a internet a través de las radios aliadas. Así, la información verificada se escucha en la lengua de cada comunidad, como lo haría un locutor que lee una noticia.",
+  "nums": [
+   {
+    "v": "3",
+    "l": "lenguas originarias: quechua, aimara y awajún"
+   },
+   {
+    "v": "5600",
+    "l": "frases traducidas y grabadas por cada idioma"
+   },
+   {
+    "v": "+20 000",
+    "l": "frases para entrenar el primer traductor digital del awajún"
+   }
+  ],
+  "useT": "Solo para usuarios capacitados",
+  "useD": "Antes de usar la plataforma, los comunicadores se capacitan en los criterios de la verificación periodística: datos fácticos y ningún elemento subjetivo. Solo quienes superan esa etapa acceden a la herramienta. Así aseguramos un uso responsable de la inteligencia artificial en tiempos de <i>deepfakes</i>.",
+  "voiceT": "Las voces",
+  "voiceD": "Los audios se crearon con las voces de tres intérpretes: Ebert Villanueva (quechua chanka), Ecker Ramos (aimara) y Yanua Atamain (awajún). Cada uno tradujo y grabó miles de frases usuales en los chequeos.",
+  "imgHead": "img/e1fb5facd56c07d4a69b.webp",
+  "imgNote": "img/c50a41347ff3bff85055.webp",
+  "imgRadio": "img/6e78302ac453badd7d19.webp"
+ }
+}
