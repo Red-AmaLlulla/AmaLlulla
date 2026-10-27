@@ -608,6 +608,9 @@
   "socSize": 20,
   "headAuto": true,
   "heroLogo": true,
+  "navNet": true,
+  "navQuipu": true,
+  "imgComp": true,
   "footHide": [
    "alcance",
    "cifras",
@@ -803,16 +806,15 @@
   "lead": "Textos que explican a fondo los temas de la agenda pública.",
   "items": [
    {
-    "id": "titular",
-    "t": "Titular",
+    "id": "titular-prueba",
+    "t": "Titular prueba",
     "d": "2026-10-27",
     "s": "Bajada",
     "u": "",
     "fu": [],
     "img": "img/f772685be17ffc0dd067.jpg",
     "cap": "Foto: Andina.",
-    "body": "<p>Textoooo.</p>",
-    "draft": true
+    "body": "<p>Textoooo.</p>"
    },
    {
     "id": "explicador-conoce-como-se-elegiran-las-autoridades-de-mas-de-3-mil-cen",
