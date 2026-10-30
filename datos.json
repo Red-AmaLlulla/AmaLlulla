@@ -34,119 +34,160 @@
   "miembros": [
    {
     "n": "OjoPúblico",
-    "d": "Medio digital · Coordina la red"
+    "d": "Medio digital · Coordina la red",
+    "reg": "Nacional"
    },
    {
     "n": "Radio La Voz de la Selva",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Loreto"
    },
    {
     "n": "Radio Villa Hermosa Azángaro",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Puno"
    },
    {
     "n": "Radio La Decana",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Puno"
    },
    {
     "n": "Radio Ayaviri",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Puno"
    },
    {
     "n": "Radio Cutivalú",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Piura"
    },
    {
     "n": "Millenium RadioTv",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "San Martín"
    },
    {
     "n": "Estación Wari",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Ayacucho"
    },
    {
     "n": "Pachamama Radio",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Puno"
    },
    {
     "n": "Radio Uno",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Tacna"
    },
    {
     "n": "Radio Vilcanota",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Cusco"
    },
    {
     "n": "Rimayninchis",
-    "d": "Programa radial"
+    "d": "Programa radial",
+    "reg": "Cusco"
    },
    {
     "n": "Radio Tuntui Wampís",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Loreto",
+    "alc": [
+     "Amazonas"
+    ]
    },
    {
     "n": "Evidencia.pe",
-    "d": "Medio digital, portal web y diario"
+    "d": "Medio digital, portal web y diario",
+    "reg": "Arequipa"
    },
    {
     "n": "Pancarta.pe",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Arequipa"
    },
    {
     "n": "El Búho",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Arequipa"
    },
    {
     "n": "Ideeleradio",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Nacional"
    },
    {
     "n": "Inforegión",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Nacional"
    },
    {
     "n": "El Objetivo",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Puno"
    },
    {
     "n": "Página 17",
-    "d": "Medio digital, radio y TV"
+    "d": "Medio digital, radio y TV",
+    "reg": "Cusco",
+    "zona": "Espinar"
    },
    {
     "n": "FECONAU",
-    "d": "Organización indígena · Federación de Comunidades Nativas de Ucayali y Afluentes"
+    "d": "Organización indígena · Federación de Comunidades Nativas de Ucayali y Afluentes",
+    "reg": "Ucayali"
    },
    {
     "n": "Radio Huánuco",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Huánuco",
+    "alc": [
+     "Áncash"
+    ]
    },
    {
     "n": "Ozono TV Trujillo",
-    "d": "Medio digital y TV"
+    "d": "Medio digital y TV",
+    "reg": "La Libertad"
    },
    {
     "n": "Másdata Amazonía",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Junín"
    },
    {
     "n": "Radio Tropicana",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Loreto"
    },
    {
     "n": "IDL Reporteros",
-    "d": "Medio digital"
+    "d": "Medio digital",
+    "reg": "Nacional"
    },
    {
     "n": "ANP Radio",
-    "d": "Radio · Asociación Nacional de Periodistas del Perú"
+    "d": "Radio · Asociación Nacional de Periodistas del Perú",
+    "reg": "Nacional"
    },
    {
     "n": "Lagunas Play",
-    "d": "Canal digital"
+    "d": "Canal digital",
+    "reg": "Loreto",
+    "alc": [
+     "San Martín"
+    ],
+    "zona": "Alto Amazonas y Datem del Marañón"
    },
    {
     "n": "Radio Kampagkis",
-    "d": "Radio"
+    "d": "Radio",
+    "reg": "Amazonas",
+    "zona": "Santa María de Nieva, Condorcanqui"
    }
   ],
   "aliados": [
@@ -440,11 +481,11 @@
      "v": 5
     },
     {
-     "l": "Loreto",
-     "v": 4
+     "l": "Nacional",
+     "v": 5
     },
     {
-     "l": "Nacional",
+     "l": "Loreto",
      "v": 4
     },
     {
@@ -457,10 +498,6 @@
     },
     {
      "l": "Amazonas",
-     "v": 1
-    },
-    {
-     "l": "Apurímac",
      "v": 1
     },
     {
@@ -496,7 +533,7 @@
      "v": 1
     }
    ],
-   "note": "29 medios aliados: 25 en 14 regiones y 4 de alcance nacional."
+   "note": "29 medios aliados: 24 con sede en regiones y 5 de alcance nacional. Llegan a 14 regiones. Algunos medios alcanzan más de una región, por eso las cifras del mapa pueden sumar más de 29."
   }
  },
  "join": {
@@ -615,7 +652,10 @@
    "alcance",
    "cifras",
    "quispe"
-  ]
+  ],
+  "heroLogoS": 50,
+  "heroT2S": 70,
+  "logoH": 24
  },
  "layout": {
   "order": [
