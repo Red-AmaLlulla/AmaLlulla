@@ -557,7 +557,8 @@
     "a": "Por medio de nuestras redes sociales o correo electrónico."
    }
   ],
-  "formUrl": ""
+  "formUrl": "",
+  "sheetUrl": "https://script.google.com/macros/s/AKfycbxQnrH_PH2nPDE6BwuuS6NXfDjtsbzv7cCBcF1igwePsH90L0Rm-txOPFLZKiuQqulF/exec"
  },
  "footer": {
   "d": "Red de medios independientes de verificación del Perú.",
@@ -648,14 +649,14 @@
   "navNet": true,
   "navQuipu": true,
   "imgComp": true,
+  "logoH": 24,
+  "heroLogoS": 50,
+  "heroT2S": 70,
   "footHide": [
    "alcance",
    "cifras",
    "quispe"
-  ],
-  "heroLogoS": 50,
-  "heroT2S": 70,
-  "logoH": 24
+  ]
  },
  "layout": {
   "order": [
@@ -746,12 +747,17 @@
   "ratingsTitle": "Nuestras calificaciones",
   "corrTitle": "Política de correcciones",
   "formBtn": "Enviar solicitud",
+  "formOk": "¡Gracias! Recibimos tu solicitud. El equipo de la red se comunicará contigo por correo.",
   "formLink": "Abrir el formulario de inscripción",
   "more": "Ver resumen →",
   "readFull": "Leer el chequeo completo",
   "srcLabel": "Fuentes:",
   "searchLabel": "Buscar",
   "searchPh": "Ej.: JNE, CVR, Congreso…",
+  "gsTitle": "Buscar en Ama Llulla",
+  "gsPh": "Busca un chequeo, explicador o especial…",
+  "gsRecent": "Lo más reciente",
+  "gsNone": "No encontramos notas con esas palabras. Prueba con otro término.",
   "recent": "Reciente",
   "menu": "Menú",
   "all": "Todas",
